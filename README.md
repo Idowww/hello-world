@@ -1,2 +1,2 @@
 # hello-world
-hell word exercise
+this is  a simple hello word exercise;
