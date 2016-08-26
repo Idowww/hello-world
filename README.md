@@ -1,2 +1,2 @@
 # hello-world
-this si  a simple hhell word exercise;
+this is  a simple hhell word exercise;
